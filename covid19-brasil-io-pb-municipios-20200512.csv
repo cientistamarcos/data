@@ -1,0 +1,114 @@
+epidemiological_week,date,order_for_place,state,city,city_ibge_code,place_type,last_available_confirmed,last_available_confirmed_per_100k_inhabitants,new_confirmed,last_available_deaths,new_deaths,last_available_death_rate,estimated_population_2019,is_last,is_repeated
+20,12/05/2020,19,PB,Alagoa Grande,2500304,city,6,2.105.559,0,0,0,0.0,28496,True,False
+20,12/05/2020,21,PB,Alagoa Nova,2500403,city,1,479.639,0,0,0,0.0,20849,True,False
+20,12/05/2020,9,PB,Alagoinha,2500502,city,5,3.450.894,0,0,0,0.0,14489,True,False
+20,12/05/2020,14,PB,Alhandra,2500601,city,34,17.357.566,2,3,0,0.0882,19588,True,False
+20,12/05/2020,15,PB,Araçagi,2500809,city,5,2.943.427,1,0,0,0.0,16987,True,False
+20,12/05/2020,18,PB,Areia,2501104,city,5,2.191.156,1,0,0,0.0,22819,True,False
+20,12/05/2020,3,PB,Aroeiras,2501302,city,2,1.044.223,0,0,0,0.0,19153,True,False
+20,12/05/2020,6,PB,Baía da Traição,2501401,city,4,4.447.904,0,0,0,0.0,8993,True,False
+20,12/05/2020,5,PB,Bananeiras,2501500,city,3,1.407.261,2,0,0,0.0,21318,True,False
+20,12/05/2020,3,PB,Barra de Santana,2501575,city,2,2.392.631,0,0,0,0.0,8359,True,False
+20,12/05/2020,21,PB,Barra de São Miguel,2501708,city,1,1.656.726,0,0,0,0.0,6036,True,False
+20,12/05/2020,35,PB,Bayeux,2501807,city,70,7.225.434,1,8,2,0.1143,96880,True,False
+20,12/05/2020,1,PB,Belém,2501906,city,1,565.739,1,0,0,0.0,17676,True,False
+20,12/05/2020,23,PB,Bom Jesus,2502201,city,1,3.904.725,0,0,0,0.0,2561,True,False
+20,12/05/2020,18,PB,Boqueirão,2502508,city,2,1.123.343,1,1,0,0.5,17804,True,False
+20,12/05/2020,6,PB,Borborema,2502706,city,1,1.900.057,0,0,0,0.0,5263,True,False
+20,12/05/2020,19,PB,Brejo do Cruz,2502805,city,1,708.115,0,1,0,1.0,14122,True,False
+20,12/05/2020,19,PB,Caaporã,2503001,city,54,24.738.868,0,0,0,0.0,21828,True,False
+20,12/05/2020,42,PB,Cabedelo,2503209,city,113,16.682.414,15,6,0,0.0531,67736,True,False
+20,12/05/2020,12,PB,Caiçara,2503605,city,5,694.348,3,0,0,0.0,7201,True,False
+20,12/05/2020,22,PB,Cajazeiras,2503704,city,22,3.548.788,3,1,0,0.0455,61993,True,False
+20,12/05/2020,5,PB,Cajazeirinhas,2503753,city,1,3.131.851,0,0,0,0.0,3193,True,False
+20,12/05/2020,47,PB,Campina Grande,2504009,city,134,3.270.438,9,4,1,0.0299,409731,True,False
+20,12/05/2020,8,PB,Capim,2504033,city,4,6.132.148,0,0,0,0.0,6523,True,False
+20,12/05/2020,12,PB,Casserengue,2504157,city,1,1.339.047,0,0,0,0.0,7468,True,False
+20,12/05/2020,15,PB,Catingueira,2504207,city,1,2.027.575,0,0,0,0.0,4932,True,False
+20,12/05/2020,7,PB,Condado,2504504,city,14,21.039.976,3,0,0,0.0,6654,True,False
+20,12/05/2020,22,PB,Conde,2504603,city,22,8.917.714,1,1,0,0.0455,24670,True,False
+20,12/05/2020,25,PB,Congo,2504702,city,3,6.268.282,0,1,0,0.3333,4786,True,False
+20,12/05/2020,21,PB,Coremas,2504801,city,5,3.237.294,1,0,0,0.0,15445,True,False
+20,12/05/2020,19,PB,Coxixola,2504850,city,3,15.616.866,0,0,0,0.0,1921,True,False
+20,12/05/2020,22,PB,Cruz do Espírito Santo,2504900,city,22,12.702.812,1,2,0,0.0909,17319,True,False
+20,12/05/2020,1,PB,Cuité,2505105,city,1,49.169,1,0,0,0.0,20338,True,False
+20,12/05/2020,2,PB,Cuité de Mamanguape,2505238,city,1,1.574.059,0,0,0,0.0,6353,True,False
+20,12/05/2020,6,PB,Cuitegi,2505204,city,5,7.349.699,1,0,0,0.0,6803,True,False
+20,12/05/2020,2,PB,Duas Estradas,2505808,city,1,2.780.868,0,0,0,0.0,3596,True,False
+20,12/05/2020,17,PB,Esperança,2506004,city,4,1.211.864,0,0,0,0.0,33007,True,False
+20,12/05/2020,3,PB,Gado Bravo,2506251,city,2,2.405.002,1,0,0,0.0,8316,True,False
+20,12/05/2020,20,PB,Guarabira,2506301,city,103,17.507.181,14,0,0,0.0,58833,True,False
+20,12/05/2020,18,PB,Gurinhém,2506400,city,4,2.831.057,0,0,0,0.0,14129,True,False
+20,12/05/2020,51,PB,Igaracy,2502607,city,1,1.634.788,0,0,0,0.0,6117,True,False
+20,12/05/2020,12,PB,Imaculada,2506707,city,3,2.538.286,0,0,0,0.0,11819,True,False
+20,12/05/2020,3,PB,Ingá,2506806,city,1,552.395,0,0,0,0.0,18103,True,False
+20,12/05/2020,22,PB,Itabaiana,2506905,city,10,4.085.468,2,0,0,0.0,24477,True,False
+20,12/05/2020,19,PB,Itaporanga,2507002,city,2,809.979,0,0,0,0.0,24692,True,False
+20,12/05/2020,21,PB,Itapororoca,2507101,city,5,2.678.954,0,1,0,0.2,18664,True,False
+20,12/05/2020,1,PB,Itatuba,2507200,city,2,1.824.485,2,0,0,0.0,10962,True,False
+20,12/05/2020,56,PB,João Pessoa,2507507,city,1316,16.266.695,86,62,3,0.0471,809015,True,False
+20,12/05/2020,5,PB,Joca Claudino,2513653,city,1,3.793.627,0,0,0,0.0,2636,True,False
+20,12/05/2020,2,PB,Juarez Távora,2507606,city,1,1.260.081,0,0,0,0.0,7936,True,False
+20,12/05/2020,7,PB,Juazeirinho,2507705,city,5,2.751.637,0,0,0,0.0,18171,True,False
+20,12/05/2020,40,PB,Junco do Seridó,2507804,city,3,4.195.804,0,1,0,0.3333,7150,True,False
+20,12/05/2020,6,PB,Juripiranga,2507903,city,8,7.437.709,4,0,0,0.0,10756,True,False
+20,12/05/2020,2,PB,Lagoa de Dentro,2508208,city,2,2.591.009,1,0,0,0.0,7719,True,False
+20,12/05/2020,16,PB,Lagoa Seca,2508307,city,8,2.908.774,4,1,0,0.125,27503,True,False
+20,12/05/2020,15,PB,Lucena,2508604,city,12,9.174.312,0,0,0,0.0,13080,True,False
+20,12/05/2020,2,PB,Malta,2508802,city,1,1.736.413,0,0,0,0.0,5759,True,False
+20,12/05/2020,13,PB,Mamanguape,2508901,city,10,2.228.065,3,0,0,0.0,44882,True,False
+20,12/05/2020,16,PB,Mari,2509107,city,26,11.906.397,0,2,0,0.0769,21837,True,False
+20,12/05/2020,18,PB,Marizópolis,2509156,city,3,4.533.777,0,1,0,0.3333,6617,True,False
+20,12/05/2020,7,PB,Massaranduba,2509206,city,4,2.873.976,2,0,0,0.0,13918,True,False
+20,12/05/2020,9,PB,Mataraca,2509305,city,1,1.185.677,0,0,0,0.0,8434,True,False
+20,12/05/2020,8,PB,Matinhas,2509339,city,1,2.222.222,0,0,0,0.0,4500,True,False
+20,12/05/2020,3,PB,Maturéia,2509396,city,1,1.522.302,0,0,0,0.0,6569,True,False
+20,12/05/2020,1,PB,Mogeiro,2509404,city,1,752.785,1,1,1,1.0,13284,True,False
+20,12/05/2020,12,PB,Monteiro,2509701,city,5,1.505.027,3,0,0,0.0,33222,True,False
+20,12/05/2020,10,PB,Mulungu,2509800,city,3,3.029.691,0,0,0,0.0,9902,True,False
+20,12/05/2020,2,PB,Natuba,2509909,city,1,956.572,0,0,0,0.0,10454,True,False
+20,12/05/2020,9,PB,Nova Floresta,2510105,city,1,940.026,0,0,0,0.0,10638,True,False
+20,12/05/2020,44,PB,Patos,2510808,city,128,11.895.358,19,9,0,0.0703,107605,True,False
+20,12/05/2020,19,PB,Pedras de Fogo,2511202,city,33,11.596.036,7,1,0,0.0303,28458,True,False
+20,12/05/2020,11,PB,Piancó,2511301,city,5,311.042,1,1,1,0.2,16075,True,False
+20,12/05/2020,12,PB,Pilar,2511509,city,7,5.873.962,0,0,0,0.0,11917,True,False
+20,12/05/2020,8,PB,Pilões,2511608,city,1,1.507.159,0,0,0,0.0,6635,True,False
+20,12/05/2020,12,PB,Pilõezinhos,2511707,city,6,12.057.878,0,0,0,0.0,4976,True,False
+20,12/05/2020,9,PB,Pirpirituba,2511806,city,6,5.671.614,1,0,0,0.0,10579,True,False
+20,12/05/2020,12,PB,Pitimbu,2511905,city,7,367.165,0,0,0,0.0,19065,True,False
+20,12/05/2020,6,PB,Pocinhos,2512002,city,1,538.677,0,0,0,0.0,18564,True,False
+20,12/05/2020,27,PB,Pombal,2512101,city,2,609.738,0,0,0,0.0,32801,True,False
+20,12/05/2020,13,PB,Princesa Isabel,2512309,city,3,1.285.072,0,0,0,0.0,23345,True,False
+20,12/05/2020,3,PB,Puxinanã,2512408,city,1,730.994,0,0,0,0.0,13680,True,False
+20,12/05/2020,25,PB,Queimadas,2512507,city,6,136.466,0,0,0,0.0,43967,True,False
+20,12/05/2020,8,PB,Remígio,2512705,city,9,4.586.922,3,0,0,0.0,19621,True,False
+20,12/05/2020,6,PB,Riachão do Bacamarte,2512754,city,3,66.357,0,0,0,0.0,4521,True,False
+20,12/05/2020,26,PB,Riachão do Poço,2512762,city,1,2.217.787,0,1,0,1.0,4509,True,False
+20,12/05/2020,14,PB,Riacho dos Cavalos,2512804,city,2,2.345.766,0,0,0,0.0,8526,True,False
+20,12/05/2020,13,PB,Rio Tinto,2512903,city,13,5.377.234,0,0,0,0.0,24176,True,False
+20,12/05/2020,14,PB,Santa Helena,2513307,city,1,1.698.081,0,0,0,0.0,5889,True,False
+20,12/05/2020,7,PB,Santa Luzia,2513406,city,1,650.111,0,0,0,0.0,15382,True,False
+20,12/05/2020,36,PB,Santa Rita,2513703,city,233,17.058.849,16,33,3,0.1416,136586,True,False
+20,12/05/2020,2,PB,Santa Teresinha,2513802,city,1,2.186.748,0,0,0,0.0,4573,True,False
+20,12/05/2020,26,PB,São Bento,2513901,city,8,2.350.798,0,2,0,0.25,34031,True,False
+20,12/05/2020,29,PB,São João do Rio do Peixe,2500700,city,6,3.327.049,0,0,0,0.0,18034,True,False
+20,12/05/2020,12,PB,São José de Espinharas,2514404,city,1,2.135.839,0,0,0,0.0,4682,True,False
+20,12/05/2020,14,PB,São José de Piranhas,2514503,city,2,987.606,0,1,0,0.5,20251,True,False
+20,12/05/2020,15,PB,São José do Bonfim,2514602,city,1,2.811.358,0,0,0,0.0,3557,True,False
+20,12/05/2020,2,PB,São José do Sabugi,2514701,city,3,7.244.627,0,0,0,0.0,4141,True,False
+20,12/05/2020,3,PB,São José dos Ramos,2514453,city,2,3.357.395,0,0,0,0.0,5957,True,False
+20,12/05/2020,6,PB,São Miguel de Taipu,2515005,city,2,2.714.441,0,0,0,0.0,7368,True,False
+20,12/05/2020,8,PB,São Sebastião de Lagoa de Roça,2515104,city,5,4.287.797,2,1,1,0.2,11661,True,False
+20,12/05/2020,31,PB,Sapé,2515302,city,89,16.912.114,20,4,2,0.0449,52625,True,False
+20,12/05/2020,40,PB,Serra Branca,2515500,city,1,72.998,0,0,0,0.0,13699,True,False
+20,12/05/2020,11,PB,Serra da Raiz,2515609,city,3,952.986,0,0,0,0.0,3148,True,False
+20,12/05/2020,13,PB,Serra Redonda,2515807,city,2,2.840.506,0,0,0,0.0,7041,True,False
+20,12/05/2020,5,PB,Sertãozinho,2515930,city,2,3.980.892,0,0,0,0.0,5024,True,False
+20,12/05/2020,6,PB,Sobrado,2515971,city,2,2.569.703,0,1,1,0.5,7783,True,False
+20,12/05/2020,3,PB,Soledade,2516102,city,2,1.334.312,0,0,0,0.0,14989,True,False
+20,12/05/2020,47,PB,Sousa,2516201,city,42,6.048.039,11,1,0,0.0238,69444,True,False
+20,12/05/2020,3,PB,Tacima,2516409,city,2,1.833.013,0,0,0,0.0,10911,True,False
+20,12/05/2020,29,PB,Taperoá,2516508,city,19,1.235.692,0,1,0,0.0526,15376,True,False
+20,12/05/2020,5,PB,Teixeira,2516706,city,1,659.587,0,0,0,0.0,15161,True,False
+20,12/05/2020,9,PB,Uiraúna,2516904,city,1,656.082,0,0,0,0.0,15242,True,False
+20,12/05/2020,14,PB,Umbuzeiro,2517001,city,4,4.037.549,2,1,0,0.25,9907,True,False
